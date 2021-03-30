@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/monster/Documents/fop/fop-semester-project/main.cpp
+iostream
+-
+fstream
+-
+string.h
+-
+ios
+-
+limits
+-
+
