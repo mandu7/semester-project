@@ -391,4 +391,8 @@ void messageEncryptDecrypt(char message[], char encryption[], int decision5, int
     }
 }
 
+//its git baby!
+
+//hello there mate
+
 
